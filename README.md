@@ -36,8 +36,9 @@ Go to `localhost:3000/teachers/new` - there should be no errors. Following, fill
 #### Question 1a
 Change `TeachersController` such that on form submission, the inputs you entered into the form are rendered.
 
-Hint: look at both the 'new' and 'show' teacher views (where can you find these files?) to see what params are being sent through the form and what variables the show view is expecting to render from the controller.  
-Hint 2: Try to observe the logs in the terminal window running your rails server
+**Hint 1:** look at both the 'new' and 'show' teacher views (where can you find these files?) to see what params are being sent through the form and what variables the show view is expecting to render from the controller.
+
+**Hint 2:** Try to observe the logs in the terminal window running your rails server after you submit the form, we can learn something about params from here.
 
 #### Question 1b
 Finally, answer the questions in `ANSWERS.md`.
