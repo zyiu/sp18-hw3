@@ -1,15 +1,15 @@
 ## Questions
 
-What does the second 'nil' argument in the line 6 text_field_tag of teachers/new.html.erb represent?
+1. What does the second 'nil' argument in the line 6 text_field_tag of teachers/new.html.erb represent?
 
 
-Go to `localhost:3000/teachers` in your browser; why does this not work?
+2. Go to `localhost:3000/teachers` in your browser; why does this not work?
 
 
-What type of request did your browser just perform?
+3. What type of request did your browser just perform?
 
 
-Go back to `localhost:3000/teachers/new`; submit the form again. What URL do you end up at?
+4. Go back to `localhost:3000/teachers/new`; submit the form again. What URL do you end up at?
 
 
-Why does `localhost:3000/teachers` work now?
+5. Why does `localhost:3000/teachers` work now?
